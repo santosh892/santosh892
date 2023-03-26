@@ -21,28 +21,7 @@ https://opensea.io/collection/robinhood58
 :wink:
 
 
+:wink:
 
-import time
 
-# Define the frames of the animation
-frames = [
-    "  O  ",
-    "/-|-\\",
-    "/ \\ "
-]
-
-# Define a function to clear the terminal screen
-def clear_screen():
-    print(chr(27) + "[2J")
-
-# Define a function to display a single frame
-def display_frame(frame):
-    clear_screen()
-    print(frame)
-
-# Loop through the frames indefinitely to create the animation
-while True:
-    for frame in frames:
-        display_frame(frame)
-        time.sleep(0.2)
 
