@@ -31,7 +31,16 @@ https://opensea.io/collection/robinhood58
 
 
 
-<p><img aling="right" alt="gif" src="https://github.com/santosh892/santosh892/blob/main/YouCut_20230326_164416595.mp4" width="500" height="325" /></p>
+
+
+
+
+SCRATCH HERE
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Try+Your+luck;Best+Of+Luck)](https://git.io/typing-svg)
+▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+
+
 
 <HTML>
 
