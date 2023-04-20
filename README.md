@@ -29,7 +29,6 @@ https://opensea.io/collection/robinhood58
 
 <p><img aling="right" alt="gif" src="https://github.com/santosh892/santosh892/blob/main/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif" width="500" height="325" /></p>
 
-[![MasterBody]("nft.gif")
 
 
 <p><img aling="right" alt="gif" src="https://github.com/santosh892/santosh892/blob/main/YouCut_20230326_164416595.mp4" width="500" height="325" /></p>
@@ -49,5 +48,5 @@ https://opensea.io/collection/robinhood58
 
 <H5 align="center"> impossible </H5>
 
-<H6 align="left"> stay happy :wink:. <\H6>
+<H6 align="left"> stay happy :wink:
 
