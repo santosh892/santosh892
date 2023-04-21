@@ -23,6 +23,15 @@
 
 
 
+
+### Technologies & Frameworks I have worked with:
+| Python | C/C++ | JAVA | MYSQL | HTML|  
+ | :---: | :---: | :---: | :-----: | :-----: | 
+ |  8/10 | 5/10  | 7/10  | 8/10    | 10/10   |
+
+
+
+
 <!--
 **santosh892/santosh892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
