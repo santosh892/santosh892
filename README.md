@@ -5,9 +5,10 @@
 )](https://git.io/typing-svg)
                                       
                            
+(｡♥‿♥｡)
 
 
-
+![middle](im-lazy-cute.gif)
 
 
 ### Hi there 👋
@@ -28,6 +29,8 @@
 | Python | C/C++ | JAVA | MYSQL | HTML|  
  | :---: | :---: | :---: | :-----: | :-----: | 
  |  8/10 | 5/10  | 7/10  | 8/10    | 10/10   |
+   
+
 
 
 
