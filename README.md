@@ -87,7 +87,7 @@ SCRATCH HERE
 <BODY BGCOLOR="#0000FF" text="FFFFFF">
 
 <H1> Hello world </H1>
-<H2 align="center"> Love at first sight </H2>
+<H2 align="center">Everything you can imagine is real</H2>
 
 <H3 align="center"> people say </H3>
 
