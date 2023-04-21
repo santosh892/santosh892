@@ -1,15 +1,22 @@
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;Hola;Bonjour;Nǐhao;Namaste;Salve;Konnichiwa
+)](https://git.io/typing-svg)
+                                      
+                           
+
+
+
+
+
 ### Hi there 👋
 
 
-![logo](https://github.com/santosh892/santosh892/blob/main/20230421_152519.gif)
+![MasterHead](20230421_152519.gif)
 
 
 
-
-
-
-
-(20230421_152519.gif)
 
 
 <!--
