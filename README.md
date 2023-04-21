@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 
 
+ ### - What i do
+
+<br />
+
+<p align="center">
+   <img src="20211231_144232.gif"/>
+   </p>
+
+
+
+
+
+
 https://opensea.io/collection/robinhood58
 
 :wink:
@@ -64,4 +77,5 @@ SCRATCH HERE
 <H5 align="center"> impossible </H5>
 
 <H6 align="left"> stay happy :wink:
+
 
