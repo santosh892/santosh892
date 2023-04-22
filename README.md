@@ -114,3 +114,5 @@ SCRATCH HERE
 <H6 align="left"> stay happy :wink:
 
 
+Counting  ℴ℉  visitors ⍑ℴ this page in this section started from 2022-2023 
+<a href="http://s11.flagcounter.com/more/8Qf"><img src="https://s11.flagcounter.com/countxl/8Qf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
