@@ -61,10 +61,25 @@ Here are some ideas to get you started:
 
 
 
-
-
-
 https://opensea.io/collection/robinhood58
+
+
+<details close="true">
+  <summary><b>:gear: &nbsp;click here</b></summary>
+
+ ![](./profile-3d-contrib/profile-night-rainbow.svg)
+ 
+  <div align="center">
+  Yes, money cannot buy happiness, but it is much more comfortable to cry in a new BMW than on a bike.😂🤣😂😂
+
+ </div>
+ 
+ 
+ </details>
+
+
+
+
 
 :wink:
 
@@ -90,8 +105,9 @@ SCRATCH HERE
 
 
 
-![Github Stats](https://github.com/santosh8292=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosh8292=TeX&layout=compact)
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uniquesp&" alt="uniquesp" /></p>
 
 
