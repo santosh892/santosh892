@@ -5,10 +5,18 @@
 )](https://git.io/typing-svg)
                                       
                            
-(｡♥‿♥｡)
+(｡♥‿♥｡)                    
+   
+<img width="25%" align="left" alt="Github" src="https://em-content.zobj.net/thumbs/120/openmoji/338/apple-logo_f8ff.png" />  
+<img width="25%" align="right" alt="Github" src="https://em-content.zobj.net/thumbs/120/openmoji/338/apple-logo_f8ff.png" /> 
 
 
-![middle](im-lazy-cute.gif)
+  
+![middle](im-lazy-cute.gif)             
+
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
 
 
 ### Hi there 👋
@@ -18,8 +26,8 @@
 
 
 
-![MasterHead](20230421_152519.gif)
 
+![MasterHead](20230421_152519.gif)
 
 
 
@@ -103,7 +111,7 @@ SCRATCH HERE
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosh892&theme=radical&count_private=true&hide=mysql) 
 
 
 
