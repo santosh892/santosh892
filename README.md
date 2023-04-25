@@ -4,8 +4,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;Hola;Bonjour;Nǐhao;Namaste;Salve;Konnichiwa
 )](https://git.io/typing-svg)
                                       
-                           
-(｡♥‿♥｡)                    
+                            
+               (｡♥‿♥｡)         
+
+
+
+
+![middle](received_908468233719387.gif)
+
+
+           
    
 <img width="25%" align="left" alt="Github" src="https://em-content.zobj.net/thumbs/120/openmoji/338/apple-logo_f8ff.png" />  
 <img width="25%" align="right" alt="Github" src="https://em-content.zobj.net/thumbs/120/openmoji/338/apple-logo_f8ff.png" /> 
