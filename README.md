@@ -114,13 +114,12 @@ https://opensea.io/collection/robinhood58
 
 
 
-
 SCRATCH HERE
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Try+Your+luck;Best+Of+Luck)](https://git.io/typing-svg)
 ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosh892&theme=radical&count_private=true&hide=mysql) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosh892&theme=radical&count_private=true&hide=c) 
 
 
 
